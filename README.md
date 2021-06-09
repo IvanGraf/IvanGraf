@@ -1,6 +1,7 @@
 <!-- By https://github.com/IvanGraf -->
 
 # Navifarg
+
 ```
 eps1.0_hellofriend.mov
 ```
@@ -16,31 +17,18 @@ eps1.0_hellofriend.mov
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-1f272e?style=for-the-badge&logo=python&logoColor=brightgreen)
-![PosgreSQL](https://img.shields.io/badge/PosgreSQL-1f272e?style=for-the-badge&logo=postgresql&logoColor=cyan)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f272e?style=for-the-badge&logo=postgresql&logoColor=cyan)
 ![С#](https://img.shields.io/badge/C%20Sharp-1f272e?style=for-the-badge&logo=c-sharp&logoColor=mediumpurple)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f272e?style=for-the-badge&logo=javascript&logoColor=mistyrose)
 ![Java](https://img.shields.io/badge/Java-1f272e?style=for-the-badge&logo=java&logoColor=yellow)
 
-
 ##
-
-
-Джек Воробей:
-
-> За свои ошибки рано или поздно приходится платить.
 ##
-
-Фара:
-
-> hard work pays off
-
-
 ##
-
 
 Tasks for Juny:
 
-- [ ] добить курс SoloLearn
+- [ ] курс SoloLearn по Python и SQL
 - [ ] изучить 1 том 1
 - [ ] выпуск Ainderworld (Pre-Alpha)
 ##
@@ -55,6 +43,22 @@ Tasks for August:
 ##
 Tasks for September:
 - [ ] выпуск Ainderworld (Release candidate)
+
+##
+##
+##
+##
+Джек Воробей:
+
+> За свои ошибки рано или поздно приходится платить
+##
+
+Фара:
+
+> hard work pays off
+
+
+##
 
 ##
 ### Contacts
