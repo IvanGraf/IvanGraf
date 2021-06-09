@@ -48,7 +48,8 @@ Tasks for September:
 ##
 ##
 ##
-Secondary tasks
+Secondary tasks:
+- [ ] выпуск Ainderworld (Release candidate)
 ##
 ##
 ##
