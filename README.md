@@ -23,12 +23,14 @@ eps1.0_hellofriend.mov
 ![Java](https://img.shields.io/badge/Java-1f272e?style=for-the-badge&logo=java&logoColor=yellow)
 
 ##
-##
+
+![Изображение](1.gif)
+
 ##
 
 Tasks for Juny:
 
-- [ ] курс SoloLearn по Python и SQL
+- [ ] Sl on Python, SQL
 - [ ] изучить 1 том 1
 - [ ] выпуск Ainderworld (Pre-Alpha)
 ##
@@ -49,20 +51,19 @@ Tasks for September:
 ##
 ##
 Secondary tasks:
-- [ ] выпуск Ainderworld (Release candidate)
+- [ ] try to restore the hhd
+- [ ] if possible, then continue to make the «Волшебный ковёр 2.0»
 ##
 ##
 ##
 ##
-Джек Воробей:
+
 
 > За свои ошибки рано или поздно приходится платить
 ##
 
-Фара:
 
 > hard work pays off
-
 
 ##
 
@@ -72,4 +73,4 @@ Secondary tasks:
 [![VK](https://img.shields.io/badge/VK-1f272e?style=for-the-badge&logo=vk&logoColor=dodgerblue)](https://vk.com/ivan_graff)
 [![Telegram](https://img.shields.io/badge/Telegram-1f272e?style=for-the-badge&logo=Telegram&logoColor=478180)](https://t.me/navifarg)
 
-![Изображение](https://sun9-55.userapi.com/impg/VqN9QIoAylq0wIr6LVLGfdS7E0MoDWRXVPCrZA/YnRFhqLoYNc.jpg?size=1920x1080&quality=96&sign=852895482206c2d1356e327a231f5842&type=album)
+![Изображение](YnRFhqLoYNc.jpg)
